@@ -1,0 +1,123 @@
+/*body {
+  background-color: #d3d3d3;
+}*/
+.inside{
+  width:10px;
+  height:10px;
+  border-radius:5px;
+  left:190px;
+  top:186px;
+  position:absolute;
+  background-color:black;
+}
+/*.inside1{
+  width:10px;
+  height:10px;
+  border-radius:5px;
+  left:296px;
+  top:176px;
+  position:absolute;
+  background-color:black;
+}*/
+.boxmodel{
+  //background-color: grey;
+  background: url(images/blackBG.png);
+  padding-top: 18px;
+  height: 70px;
+    //width: 100%;
+    /border: 1px solid white;
+    //padding: 10px;
+    //margin: 25px;
+    font-family: 'Segoe UI', Tahoma, sans-serif;
+}
+.container{
+  //width: 750px;
+  /*padding-left: 15px;
+  padding-right: 15px;
+  margin-left: auto;
+  margin-right: auto;*/
+
+}
+.caret.caret-up{
+  border-top-width: 0;
+  border-bottom: 4px solid #fff;
+}
+.number{
+  color: #fff;
+}
+.back-ground{
+  background-image: url(images/background.jpg);
+    background-repeat: no-repeat;
+    //background-position: top center;
+    background-size: 100%;
+   // height: 100%;
+}
+h1{
+  margin: 20px;
+}
+
+.IndexMainArea{
+  text-align: center;
+  /*padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 50px;
+  padding-bottom: 50px;*/
+  color: #fff;
+}
+.IndexMainArea h5{
+  font-family: Raleway;
+    color: #74ffff;
+    text-transform: uppercase;
+    font-weight: 700;
+    letter-spacing: 0.25em;
+    margin-bottom: 20px;
+    line-height: 24px;
+}
+.IndexMainArea h1 {
+    font-family: Raleway;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 800;
+    letter-spacing: 0.25em;
+    line-height: 40px;
+}
+.h5, .h5 {
+    font-size: 16px;
+}
+.h5 {
+    display: block;
+    font-size: 0.83em;
+    -webkit-margin-before: 1.67em;
+    -webkit-margin-after: 1.67em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    font-weight: bold;
+}
+.FooterArea{
+  //background-color: #efefef;
+  background-color: gray;
+  //background: url(images/blackBG.png);
+  text-align: left;
+  //min-height: 60px;
+  width:100%;
+  vertical-align: center;
+  //padding: 20px 20px;
+  //position: fixed;
+  //font-size: 11px;
+  padding-left: 100px;
+  //padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 1px;
+
+}
+.rowspace{
+  padding-bottom: 150px;
+}
+
+
+ul li a{
+  color: #fff;
+}
+.menu{
+  float: right;
+}
